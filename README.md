@@ -24,4 +24,5 @@ Function to compute the matrix representation of a given permutation p using You
 # References
 
 [1]: G. Cobucci, A. Tavakoli, A. Bernal, S. Khandelwal (2026). The superb supersinglet ()
+
 [2]: Bruno Luong (2024). Set partition (https://www.mathworks.com/matlabcentral/fileexchange/24133-set-partition), MATLAB Central File Exchange. Retrieved February 5, 2024.
